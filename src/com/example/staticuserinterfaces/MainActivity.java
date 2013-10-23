@@ -50,6 +50,9 @@ public class MainActivity extends Activity implements SeekBar.OnSeekBarChangeLis
 		ageSeekBar.setMax(MAX_VALUE);
 
 		colourSpinner.setOnItemSelectedListener(this);
+		//Add new feature here
+		///
+		///
 		
 		changeViewColour();
 		
