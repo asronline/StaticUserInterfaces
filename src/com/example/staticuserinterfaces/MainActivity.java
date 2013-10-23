@@ -80,6 +80,8 @@ public class MainActivity extends Activity implements SeekBar.OnSeekBarChangeLis
 		
 		intent.putExtra(EXTRA_MESSAGE, userInfo);
 		startActivity(intent);
+		
+		//This is a comment
 	}
 	
 	
