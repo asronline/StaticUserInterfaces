@@ -29,6 +29,8 @@ public class MainActivity extends Activity implements SeekBar.OnSeekBarChangeLis
 	Spinner colourSpinner;
 	View colourView;
 	
+	//New comment!
+	
 
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
